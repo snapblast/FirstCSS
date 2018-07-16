@@ -10,7 +10,7 @@ The re a set of 7 steps, that I have followed:
 4. A navigation bar: I have added styling to navingation bar instead of previously ugly-set of list view. Added padding to distict clearly the text and navigation bar. Added styling to the navigation itself.
 5. Styling Links: Differentiating between visited links and not visited links using pseudo-class concept in css.
 6: Added the Horizontal line acts as polite footer to the webpage.
-7. Finally take it away from HTML: I made a separate file for the css as the styling might grow and it would be too unorganised to put all of them in html.
+7. Finally take it away from HTML: I made a separate file for the css as the styling might grow and it would be too unorganised to put all of them in a single html.
 This is how you add external link of css file in an html file. 
 <link rel="stylesheet" href="mystyle.css">
 This will tell the browser that the style sheet is found in the file called “mystyle.css” and since no directory is mentioned, the browser will look in the same directory where it found the HTML file.
